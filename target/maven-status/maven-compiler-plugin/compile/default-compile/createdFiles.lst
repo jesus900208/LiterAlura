@@ -1,0 +1,11 @@
+com\aluracursos\literalura\menu\ConsolaMenu.class
+com\aluracursos\literalura\LiteraluraApplication.class
+com\aluracursos\literalura\repository\AutorRepository.class
+com\aluracursos\literalura\dto\GutendexAutor.class
+com\aluracursos\literalura\service\LibroService.class
+com\aluracursos\literalura\dto\GutendexLibro.class
+com\aluracursos\literalura\model\Autor.class
+com\aluracursos\literalura\dto\GutendexResponse.class
+com\aluracursos\literalura\model\Libro.class
+com\aluracursos\literalura\repository\LibroRepository.class
+com\aluracursos\literalura\service\AutorService.class
